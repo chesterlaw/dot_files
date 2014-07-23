@@ -1,0 +1,61 @@
+URxvt*borderless:	true
+URxvt*borderwidth:	0
+!URxvt*font:		-*-envypn-medium-r-*-*-13-*-*-*-*-*-iso8859-1
+!URxvt*boldFont:		-windows-proggyoptis-medium-r-normal--10-80-96-96-c-60-iso8859-1
+!URxvt*font:		-windows-proggyoptis-medium-r-normal--10-80-96-96-c-60-iso8859-1
+URxvt*font:		-*-drift-*-*-*-*-10-*-*-*-*-*-*-*
+!URxvt*boldFont:		-*-bitocra-medium-*-*-*-11-*-*-*-*-*-*-*	
+!URxvt*font:		-*-bitocra-medium-*-*-*-11-*-*-*-*-*-*-*	
+URxvt*internalBorder:	0
+URxvt*lineSpace:	2
+URxvt*dynamicColors:	on
+URxvt*scrollBar:	false
+URxvt*.transparent: true
+! URxvt*.shading: 0 to 99 darkens, 101 to 200 lightens
+URxvt*.shading: 190
+
+URxvt*foreground: #FFB621
+URxvt*background: #120101
+!URxvt*color0:  #333333
+!URxvt*color8:  #555555
+!URxvt*color1:  #ff5544
+!URxvt*color9:  #ff7766 
+!URxvt*color2:  #22dd44
+!URxvt*color10: #33dd66
+!URxvt*color3:  #ffdd44
+!URxvt*color11: #ffee66
+!URxvt*color4:  #6666ff
+!URxvt*color12: #8888ff
+!URxvt*color5:  #dd44ff
+!URxvt*color13: #ee77ff
+!URxvt*color6:  #55eeee
+!URxvt*color14: #99ffff
+!URxvt*color7: #aaaaaa
+!URxvt*color15: #cccccc
+
+
+!black
+*color0:      #666666
+*color8:      #888888
+!!red
+*color1:      #ff0000
+*color9:      #a30b00
+!!green
+*color2:      #00ff4c
+*color10:     #5eff00
+!!yellow
+*color3:      #eadc84
+*color11:     #eadc84
+!!blue
+*color4:      #0066cc
+*color12:     #0066cc
+!!magenta
+*color5:      #f97dff
+*color13:     #f97dff
+!!cyan
+*color6:      #ffc178
+*color14:     #ffc178
+!!white
+*color7:      #ffffff
+*color15:     #ffffff
+
