@@ -1,11 +1,11 @@
 [user]
-	name = Chester Law
-	email = chesterlaw@me.com
+  name = Chester Law
+  email = chesterlaw@me.com
 [push]
-	default = simple
+  default = simple
 [alias]
   s = status
-	lga = log --graph --pretty=format:'%C(bold blue)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative --date-order --all
+  lga = log --graph --pretty=format:'%C(bold blue)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative --date-order --all
 [filter "media"]
-	clean = git-media-clean %f
-	smudge = git-media-smudge %f
+  clean = git-media-clean %f
+  smudge = git-media-smudge %f
