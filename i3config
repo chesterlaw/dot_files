@@ -25,7 +25,7 @@ set $mod Mod1
 floating_modifier Mod1
 
 # start a terminal
-bindsym $mod+Return exec /usr/bin/urxvt
+bindsym $mod+Return exec /usr/bin/rxvt
 
 # kill focused window
 bindsym Mod1+Shift+q kill
@@ -151,8 +151,8 @@ bar {
 
 	colors {
     statusline #00ff4c
-	  focused_workspace #000000 #2ef047 #000000
-	  inactive_workspace #000000 #ffb621 #000000
+	  focused_workspace #000000 #ffb621 #000000
+	  inactive_workspace #000000 #2ef047 #000000
 	}
 }
 
