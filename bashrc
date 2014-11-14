@@ -1,5 +1,6 @@
 # .bashrc
 
+alias ls='ls --color'
 alias la='ls -a'
 alias l='ls -a'
 alias lla='ls -al'
