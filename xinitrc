@@ -1,4 +1,3 @@
-xset fp+ /usr/share/fonts/artwiz-aleczapka
 xset fp rehash
 
 xrdb -load ~/.Xresources
