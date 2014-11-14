@@ -4,6 +4,7 @@ alias ls='ls --color'
 alias la='ls -a'
 alias l='ls -a'
 alias lla='ls -al'
+alias ll="ls -l"
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
