@@ -25,7 +25,7 @@ set $mod Mod1
 floating_modifier Mod1
 
 # start a terminal
-bindsym $mod+Return exec /usr/bin/rxvt
+bindsym $mod+Return exec uxterm
 
 # kill focused window
 bindsym Mod1+Shift+q kill
