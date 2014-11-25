@@ -169,7 +169,7 @@ new_float normal
 
 hide_edge_borders vertical
 
-client.focused #FF8000 #FF8000 #000000 #FF8000
+client.focused #CC0000 #CC0000 #ffffff #CC0000
 client.focused_inactive #000000 #000000 #FF8000 #FF8000
 client.unfocused #000000 #000000 #FF8000 #FF8000
 
