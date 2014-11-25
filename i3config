@@ -17,9 +17,9 @@ font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # right-to-left text rendering, you should instead use pango for rendering and
 # chose a FreeType font, such as:
 # font pango:DejaVu Sans Mono 10
-font pango:nu 13px
+font pango:nu 9px
 
-set $mod Mod1 
+set $mod Mod1
 
 # use Mouse+Mod1 to drag floating windows to their wanted position
 floating_modifier Mod1
@@ -174,4 +174,3 @@ client.focused #000000 #A80000 #ffffff #A80000
 bindsym Mod1+` workspace back_and_forth
 
 exec --no-startup-id nm-applet
-
