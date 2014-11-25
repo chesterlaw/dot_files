@@ -4,8 +4,8 @@ URxvt*borderwidth:	0
 !URxvt*boldFont:		-windows-proggyoptis-medium-r-normal--10-80-96-96-c-60-iso8859-1
 !URxvt*font:		-windows-proggyoptis-medium-r-normal--10-80-96-96-c-60-iso8859-1
 URxvt*font:		-*-drift-*-*-*-*-10-*-*-*-*-*-*-*
-!URxvt*boldFont:		-*-bitocra-medium-*-*-*-11-*-*-*-*-*-*-*	
-!URxvt*font:		-*-bitocra-medium-*-*-*-11-*-*-*-*-*-*-*	
+!URxvt*boldFont:		-*-bitocra-medium-*-*-*-11-*-*-*-*-*-*-*
+!URxvt*font:		-*-bitocra-medium-*-*-*-11-*-*-*-*-*-*-*
 URxvt*internalBorder:	0
 URxvt*lineSpace:	2
 URxvt*dynamicColors:	on
@@ -19,7 +19,7 @@ URxvt*background: #120101
 !URxvt*color0:  #333333
 !URxvt*color8:  #555555
 !URxvt*color1:  #ff5544
-!URxvt*color9:  #ff7766 
+!URxvt*color9:  #ff7766
 !URxvt*color2:  #22dd44
 !URxvt*color10: #33dd66
 !URxvt*color3:  #ffdd44
@@ -59,7 +59,7 @@ URxvt*background: #120101
 *color7:      #ffffff
 *color15:     #ffffff
 
-UXTerm*background:   #120101
+UXTerm*background:   #111111
 UXTerm*foreground:   #FFB621
 UXTerm*cursorColor:  grey
 UXTerm*faceName:     drift
