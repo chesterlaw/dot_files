@@ -35,6 +35,7 @@ fun! SetupVAM()
   call add(addons, 'github:tpope/vim-surround')
   call add(addons, 'github:sjl/gundo.vim')
   call add(addons, 'github:kien/ctrlp.vim')
+  call add(addons, 'github:kchmck/vim-coffee-script')
 
   " This provides the VAMActivate command, you could be passing plugin names, too
   call vam#ActivateAddons(addons, {})
