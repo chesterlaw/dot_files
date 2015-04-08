@@ -15,3 +15,5 @@
 	required = true
 [color]
   ui=true
+[core]
+	excludesfile = ~/.gitignore
