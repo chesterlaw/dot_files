@@ -1,10 +1,11 @@
 # .bashrc
 
-alias ls='ls --color'
+alias ls='ls -G'
 alias la='ls -a'
 alias l='ls -a'
 alias lla='ls -al'
-alias ll="ls -l"
+alias ll='ls -l'
+alias r='rails'
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
