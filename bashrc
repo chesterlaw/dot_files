@@ -18,5 +18,8 @@ PATH=$PATH:$HOME/.rvm/bin:$HOME/bin
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
+if test -f ~/.rvm/scripts/rvm; then
+	[ "$(type -t rvm)" = "function" ] || source ~/.rvm/scripts/rvm
+fi
 
 LS_COLORS='di=0;32' ; export LS_COLORS
