@@ -54,6 +54,9 @@ set smarttab
 set expandtab
 set smartindent
 set hlsearch
+set autoread
+set autoindent
+set paste
 
 nnoremap <silent> <CR> :nohlsearch<CR>
 autocmd BufNewFile,BufRead *.scss             set ft=scss.css
