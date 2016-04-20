@@ -6,6 +6,7 @@ alias l='ls -a'
 alias lla='ls -al'
 alias ll='ls -l'
 alias r='rails'
+alias e='ember'
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
