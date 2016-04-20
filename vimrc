@@ -56,3 +56,5 @@ set smartindent
 set hlsearch
 
 nnoremap <silent> <CR> :nohlsearch<CR>
+autocmd BufNewFile,BufRead *.scss             set ft=scss.css
+
